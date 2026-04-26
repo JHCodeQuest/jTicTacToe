@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python
+*.pyc
+__pycache__/
+
+# Logs
+*.log
